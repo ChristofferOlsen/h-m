@@ -1,0 +1,31 @@
+.section-products{
+	padding: 150px 0;
+	background-color: #f1f1f1;
+}
+
+.section-products h1{
+	text-align: center;
+	margin: 0;
+	padding: 0;
+}
+
+.products-title hr{
+	border: 1px solid rgba(0,0,0,0.3);
+	max-width: 220px;
+}
+
+.products-wrapper{
+	
+}
+
+.products-img{
+	padding-top: 25px;
+	width: 100%;
+}
+
+@media(max-width: 480px){
+	.section-products{
+		padding-top: 130px;
+		padding-bottom: 50px;
+	}
+}

@@ -1,0 +1,41 @@
+.section-omos-wrapper{
+	padding: 100px 0;
+}
+
+.display{
+	display: flex;
+}
+
+.person-picture{
+	max-height: 175px;
+	max-width: 175px;
+}
+
+.omos-content{
+	margin: 0 30px;
+}
+
+.omos-content p{
+	font-weight: 300;
+}
+
+@media(max-width: 480px){
+	.display{
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+		padding: 40px 0;
+	}
+
+	.section-omos-wrapper{
+		padding: 50px 0;
+	}
+
+	.person-picture{
+		
+	}
+
+	.omos-content h3,p{
+		text-align: center;
+	}
+}

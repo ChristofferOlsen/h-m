@@ -1,0 +1,64 @@
+
+body{
+	margin: 0 auto;
+}
+
+a:hover{
+	text-decoration: none;
+}
+
+img {
+	max-width: 100%;
+}
+
+h1{
+	font-family: 'Raleway', sans-serif;
+	font-weight: 400;
+	// letter-spacing: 5px;
+}
+
+h2{
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 800;
+	letter-spacing: 2px;
+}
+
+h3{
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 400;
+	color: black;
+}
+
+h4{
+	font-family: 'Raleway', sans-serif;
+	font-weight: 300;
+	font-size: 22px;
+}
+
+p{
+	font-family: 'Raleway', sans-serif;
+	font-weight: 300;
+	color: black;
+}
+
+header li{
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 200;
+	letter-spacing: 2px;
+	text-shadow: 0.5px 0.5px rgba(0,0,0,0.2);
+}
+
+footer li{
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 300;
+}
+
+@media(max-width: 480px){
+	h4{
+		font-size: 16px;
+	}
+
+	footer li{
+		font-size: 10px;
+	}
+}
