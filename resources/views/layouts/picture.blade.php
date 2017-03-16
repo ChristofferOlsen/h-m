@@ -4,6 +4,5 @@
 	@else
 	<div class="picture-wrapper">
 	@endif
-		
 	</div>
 </section>

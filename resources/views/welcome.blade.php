@@ -11,11 +11,11 @@
                     <div class="contact">
                         <h2>KONTAKT OS</h2>
                         <hr>
-                        <a href="tel://24242111">
-                        <h4>Telefon: 48484848</h4>
+                        <a href="tel://49132356">
+                        <h4><b>Telefon:</b> 49132356</h4>
                         </a>
-                        <h4>Email: holmen@email.com</h4>
-                        <h4>Adresse: holmen Espergærde 12</h4>
+                        <h4><b>Email:</b> holmenogmaltby@gmail.com</h4>
+                        <h4><b>Adresse:</b> Skovparken 10, Espergærde</h4>
                     </div>
                     <div class="col-sm-4">
                         <div class="produkt">
@@ -24,7 +24,7 @@
                                 <div class="fa fa-id-card"></div>
                             </div>
                             <h3>Book Online</h3>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ea beatae vel quas vitae laborum ad, quia neque labore sit officiis ullam. Accusamus vero voluptate consequuntur, id sint est error dolore.</p>
+                            <p>Med vores online booking system, vil du frit kunne vælge dine egne tider, hvornår det passer dig.</p>
                             </a>
                         </div>
                     </div>
@@ -35,7 +35,7 @@
                                 <div class="fa fa-heart"></div>
                             </div>
                             <h3>Produkter</h3>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ea beatae vel quas vitae laborum ad, quia neque labore sit officiis ullam. Accusamus vero voluptate consequuntur, id sint est error dolore.</p>
+                            <p>Vores produkter består af organiske farve systemer, bestående af økologiske ingredienser, fri for ammoniak og med minimum mængde af kemikalier.</p>
                             </a>
                         </div>
                     </div>
@@ -46,7 +46,8 @@
                                 <div class="fa fa-user-circle"></div>
                             </div>
                             <h3>Om os</h3>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ea beatae vel quas vitae laborum ad, quia neque labore sit officiis ullam. Accusamus vero voluptate consequuntur, id sint est error dolore.</p>
+                            <p>Vi er to frisøre med mange års erfaring. Vi har drevet forretning i Espergærde i ca.30 år. Vi henter blandt andet vores inspiration fra kurser i både ind og udland.
+                            </p>
                             </a>
                         </div>
                     </div>

@@ -2,13 +2,13 @@
 <footer>
 	<div class="foot-wrapper">
 		<ul>
-			<a href="tel://24242111">
-			<li>Tlf: 48484848</li>
+			<a href="tel://49132356">
+			<li><b>Tlf:</b> 49132356</li>
 			</a>
 			<div class="foot-divider"></div>
-			<li>Adresse: Espergærde 2412</li>
+			<li><b>Adresse:</b> Skovparken 10 Espergærde</li>
 			<div class="foot-divider"></div>
-			<li>Email: H&M@email.com</li>
+			<li><b>Email:</b> holmenogmaltby@gmail.com</li>
 			<div class="foot-divider"></div>
 			<li>Holmen & Maltby</li>
 		</ul>

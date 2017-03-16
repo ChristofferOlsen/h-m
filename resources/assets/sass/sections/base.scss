@@ -11,21 +11,26 @@ img {
 	max-width: 100%;
 }
 
+a{
+	font-family: 'Cormorant Garamond', serif;
+}
+
 h1{
-	font-family: 'Raleway', sans-serif;
-	font-weight: 400;
+	font-family: 'Cormorant Garamond', serif;
+	font-weight: 700;
+	font-size: 40px;
 	// letter-spacing: 5px;
 }
 
 h2{
-	font-family: 'Open Sans', sans-serif;
-	font-weight: 800;
+	font-weight: 700;
 	letter-spacing: 2px;
+	font-family: 'Cormorant Garamond', serif;
 }
 
 h3{
-	font-family: 'Open Sans', sans-serif;
-	font-weight: 400;
+	font-family: 'Cormorant Garamond', serif;
+	font-weight: 700;
 	color: black;
 }
 

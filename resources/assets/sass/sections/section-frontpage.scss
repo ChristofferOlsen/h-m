@@ -1,5 +1,7 @@
+// PICTURE 
+
 .picture-wrapper{
-	background-image: url(/img/main-kopi.jpg);
+	background-image: url(/img/forgrund.JPG);
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: 50% 50%;
@@ -14,7 +16,7 @@
 .section-produkter{
 	padding: 50px 0;
 	text-decoration: none;
-	background-color: #FFFAF7;
+	// background-color: #D6963F;
 }
 
 .color{
@@ -60,28 +62,19 @@
 }
 
 .produkt:hover{
+
 	.fa{
 		transform: scale(1.4);
-		color: #bd3e6b;
 	}
-
-	// .fa-id-card{
-	// 	color: #333;
-	// }
-
-	// .fa-heart{
-	// 	color: #bd3e6b;
-	// 	transform: scale(1.4);
-	// }
 	
 	p{
-		color: #bd3e6b;
-		// transform: scale(1.09);
+		color: #D8A96C;
+		text-shadow: .2px .1px #333;
 		
 	}
 	h3{
-		color: #bd3e6b;
-		// transform: scale(1.09);
+		color: #D8A96C;
+		text-shadow: .2px .1px #333;
 	}
 	
 }
@@ -95,24 +88,19 @@
 		h3{
 			color: black;
 		}
-
-
 	}	
 }
 
 .produkt a{
-	text-decoration: none;
+	
 }
-
-/*********FA Colors*****/
-
-
 
 /******************SECTION MAPS*********************/
 
 .section-maps{
 	padding: 50px 0;
 	padding-bottom: 70px;
+	background-color: rgba(214,200,193,0.2);
 }
 
 .maps{

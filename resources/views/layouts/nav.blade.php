@@ -2,8 +2,9 @@
 	<div class="head-wrapper">
 		<div class="head-logo">
 			<a href="/">
-				{{-- <img src="#" alt="#"> --}}
-				<h5>Holmen&Maltby</h5>
+				<img class="logo" src="/img/hogm_clean.svg" alt="#">
+				
+				{{-- <h5>Holmen&Maltby</h5> --}}
 			</a>
 		</div>
 		<div class="btn-display">

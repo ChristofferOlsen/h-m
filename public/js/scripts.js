@@ -343,7 +343,7 @@ function initMap() {
 
         // Create a map object, and include the MapTypeId to add
         // to the map type control.
-        var myLatLng = {lat: 55.997, lng: 12.549};
+        var myLatLng = {lat: 55.997284, lng: 12.548861};
         var map = new google.maps.Map(document.getElementById('maps'), {
 
           center: myLatLng,
@@ -368,7 +368,7 @@ function initMap() {
         var marker = new google.maps.Marker({
           position: myLatLng,
           map: map,
-          title: 'Her bor vi'
+          title: ''
         });
 
         //Associate the styled map with the MapTypeId and set it to display.

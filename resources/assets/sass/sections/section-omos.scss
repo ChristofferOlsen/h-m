@@ -1,22 +1,39 @@
+.omos{
+	background-color: rgba(214, 200, 193, 0.2);
+}
+
 .section-omos-wrapper{
-	padding: 100px 0;
+	padding: 50px 0;
+
 }
 
 .display{
 	display: flex;
+	flex-direction: column;
+	text-align: center;
+	padding-bottom: 50px;
+	
+	h3{
+		padding: 20px 0;
+		font-weight: 700;
+		letter-spacing: 2px;
+	}
 }
 
 .person-picture{
-	max-height: 175px;
-	max-width: 175px;
+		background-size: cover;
+		background-repeat: no-repeat;
+		background-position: 50% 50%;
+		height: 200px;
+		width: 100%;
 }
 
-.omos-content{
-	margin: 0 30px;
+.tinne{
+	background-image: url(/img/tinne.JPG);
 }
 
-.omos-content p{
-	font-weight: 300;
+.tina{
+	background-image: url(/img/tina.JPG);	
 }
 
 @media(max-width: 480px){
@@ -37,5 +54,15 @@
 
 	.omos-content h3,p{
 		text-align: center;
+	}
+
+	.person-picture{
+		height: 300px;
+	}
+}
+
+@media(max-width: 780px){
+	.display{
+		padding: 20px 0;
 	}
 }
