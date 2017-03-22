@@ -1,14 +1,12 @@
 // PICTURE 
 
 .picture-wrapper{
-	background-image: url(/img/forgrund.jpg);
+	background-image: url(/img/main-omos.jpg);
 	background-size: cover;
 	background-repeat: no-repeat;
-	background-position: 50% 50%;
+	background-position: 50% 58%;
 	position: relative;
-	height: 500px;
-	
-	
+	height: 750px;
 }
 
 /******************SECTION PRODUKTER******************/
@@ -88,6 +86,12 @@
 		h3{
 			color: black;
 		}
+	}
+
+	.picture-wrapper{
+	background-position: 85% 58%;
+	position: relative;
+	height: 550px;
 	}	
 }
 

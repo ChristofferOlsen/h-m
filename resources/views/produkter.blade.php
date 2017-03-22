@@ -1,7 +1,11 @@
 @extends('layouts.master')
 
 @section('content')
-	@include('layouts.picture', ['image'=>'/img/produkter.jpg'])
+	{{-- @include('layouts.picture', ['image'=>'/img/produkter.jpg']) --}}
+
+	<div class="picture-produkter">
+		
+	</div>
 
 	<section class="section-products">
 		<div class="container">

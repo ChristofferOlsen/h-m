@@ -1,3 +1,12 @@
+.picture-omos{
+	background-image: url(/img/forgrund.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: 50% 50%;
+	position: relative;
+	height: 550px;
+}
+
 .omos{
 	background-color: rgba(214, 200, 193, 0.2);
 }
@@ -11,12 +20,16 @@
 	display: flex;
 	flex-direction: column;
 	text-align: center;
-	padding-bottom: 50px;
+	padding: 50px 0;
 	
 	h3{
-		padding: 20px 0;
+		padding-top: 10px;
 		font-weight: 700;
 		letter-spacing: 2px;
+	}
+
+	p{
+		padding-top: 20px;
 	}
 }
 
@@ -24,7 +37,7 @@
 		background-size: cover;
 		background-repeat: no-repeat;
 		background-position: 50% 50%;
-		height: 200px;
+		height: 400px;
 		width: 100%;
 }
 
@@ -58,6 +71,15 @@
 
 	.person-picture{
 		height: 300px;
+	}
+
+	.picture-omos{
+	background-image: url(/img/forgrund.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: 90% 68%;
+	position: relative;
+	height: 450px;
 	}
 }
 

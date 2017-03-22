@@ -31,13 +31,14 @@ footer{
 
 }
 
-@media(max-width: 480px){
+@media(max-width: 767px){
 	.foot-wrapper ul{
 		flex-direction: column;
 	}
 
 	.foot-wrapper ul li{
 		margin: 12px 5px;
+		text-align: center;
 	}
 
 	.foot-divider{

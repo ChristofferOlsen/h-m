@@ -84,7 +84,7 @@ header {
   pointer-events: initial;
 }
 
-@media (max-width: 480px) {
+@media (max-width: 767px) {
   .head-wrapper {
     padding: 20px 50px;
     background-color: white;
@@ -200,7 +200,7 @@ header {
   background-color: #333;
 }
 
-@media (max-width: 480px) {
+@media (max-width: 767px) {
   .foot-wrapper ul {
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
@@ -210,6 +210,7 @@ header {
 
   .foot-wrapper ul li {
     margin: 12px 5px;
+    text-align: center;
   }
 
   .foot-divider {
@@ -291,6 +292,15 @@ footer li {
   }
 }
 
+.picture-produkter {
+  background-image: url(/img/produkter.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: 50% 58%;
+  position: relative;
+  height: 650px;
+}
+
 .section-products {
   padding: 80px 0;
 }
@@ -332,12 +342,12 @@ footer li {
 }
 
 .picture-wrapper {
-  background-image: url(/img/forgrund.jpg);
+  background-image: url(/img/main-omos.jpg);
   background-size: cover;
   background-repeat: no-repeat;
-  background-position: 50% 50%;
+  background-position: 50% 58%;
   position: relative;
-  height: 500px;
+  height: 750px;
 }
 
 /******************SECTION PRODUKTER******************/
@@ -413,6 +423,12 @@ footer li {
   .produkt:hover h3 {
     color: black;
   }
+
+  .picture-wrapper {
+    background-position: 85% 58%;
+    position: relative;
+    height: 550px;
+  }
 }
 
 /******************SECTION MAPS*********************/
@@ -427,6 +443,15 @@ footer li {
   background-color: #f1f1f1;
   height: 400px;
   border: 1px solid black;
+}
+
+.picture-omos {
+  background-image: url(/img/forgrund.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
+  position: relative;
+  height: 550px;
 }
 
 .omos {
@@ -446,20 +471,24 @@ footer li {
       -ms-flex-direction: column;
           flex-direction: column;
   text-align: center;
-  padding-bottom: 50px;
+  padding: 50px 0;
 }
 
 .display h3 {
-  padding: 20px 0;
+  padding-top: 10px;
   font-weight: 700;
   letter-spacing: 2px;
+}
+
+.display p {
+  padding-top: 20px;
 }
 
 .person-picture {
   background-size: cover;
   background-repeat: no-repeat;
   background-position: 50% 50%;
-  height: 200px;
+  height: 400px;
   width: 100%;
 }
 
@@ -497,6 +526,15 @@ footer li {
 
   .person-picture {
     height: 300px;
+  }
+
+  .picture-omos {
+    background-image: url(/img/forgrund.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 90% 68%;
+    position: relative;
+    height: 450px;
   }
 }
 
