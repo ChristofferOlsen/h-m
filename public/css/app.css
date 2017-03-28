@@ -315,15 +315,15 @@ footer li {
   text-align: center;
 }
 
-.products-title h4 {
-  padding: 20px 0;
-}
-
 .products-title hr {
   border: 1px solid rgba(0, 0, 0, 0.4);
   max-width: 220px;
   margin-top: 10px;
   margin-bottom: 10px;
+}
+
+.products-title p {
+  font-size: 18px;
 }
 
 .products-img {

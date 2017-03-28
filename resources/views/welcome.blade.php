@@ -1,5 +1,6 @@
 @extends('layouts.master')
 
+@section('meta-desc-content', 'Frisøerne Tina Maltby og Tinne Holmen byder velkommen til deres salon i Espergærde.')
 
 @section('content')
     @include('layouts.picture')

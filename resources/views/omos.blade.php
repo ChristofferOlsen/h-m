@@ -1,8 +1,8 @@
 @extends('layouts.master')
 
-@section('content')
+@section('title','Frisør Espergærde | Holmen og Maltby | Hvem er vi')
 
-	{{-- @include('layouts.picture', ['image'=>'/img/forgrund.jpg']) --}}
+@section('content')
 	
 	<div class="picture-omos">
 		
@@ -29,7 +29,7 @@
 								
 							</div>
 							<h3>TINA MALTBY</h3>
-							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae magni, sapiente. Ducimus, iusto porro in perspiciatis placeat veniam sapiente. Reiciendis eligendi, fugiat vitae ad non consequatur tempore provident magnam doloremque!</p>
+							<p>Tina Maltby blev uddannet frisør i 1983 hos Frisør Bach, efterfølgende arbejde Tina som assistent hos Frisør Frandsen. I 1995 startede Tina hos Tinne Holmen , som hun blev partner med i 2009.<br><br> Inspirationen for faget hentes fra kurser i Danmark, London og USA, men især også fra den gode kontakt med kunderne af forskellige aldre og køn.</p>
 						</div>
 					</div>
 				</div>
