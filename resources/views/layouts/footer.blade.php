@@ -10,6 +10,10 @@
 			<div class="foot-divider"></div>
 			<li> holmenogmaltby@gmail.com</li>
 			<div class="foot-divider"></div>
+			<a href="/persondata">
+				<li>Persondataforordning</li>
+			</a>
+			<div class="foot-divider"></div>
 			<li>Holmen & Maltby</li>
 		</ul>
 	</div>

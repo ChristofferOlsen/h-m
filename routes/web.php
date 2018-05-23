@@ -22,3 +22,7 @@ Route::get('/omos',function(){
 Route::get('/produkter',function(){
 	return view('produkter');
 });
+
+Route::get('/persondata',function(){
+	return view('persondata');
+});

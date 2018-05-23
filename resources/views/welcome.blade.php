@@ -1,6 +1,6 @@
 @extends('layouts.master')
 
-@section('meta-desc-content', 'Frisøerne Tina Maltby og Tinne Holmen byder velkommen til deres salon i Espergærde.')
+@section('meta-desc-content', 'Frisørne Tina Maltby og Tinne Holmen byder velkommen til deres salon. Telefon: 49132356 Adresse: Skovparken 10 Espergærde')
 
 @section('content')
     @include('layouts.picture')
