@@ -18,7 +18,7 @@
                         <h4><b>Email:</b> holmenogmaltby@gmail.com</h4>
                         <h4><b>Adresse:</b> Skovparken 10, Espergærde</h4>
                     </div>
-                    <div class="col-sm-4">
+                    {{-- <div class="col-sm-4">
                         <div class="produkt">
                             <a href="#">
                             <div class="produkt-icon">
@@ -28,8 +28,8 @@
                             <p>Med vores online booking system, vil du frit kunne vælge dine egne tider, hvornår det passer dig.</p>
                             </a>
                         </div>
-                    </div>
-                    <div class="col-sm-4">
+                    </div> --}}
+                    <div class="col-sm-6">
                         <div class="produkt">
                             <a href="/produkter">
                             <div class="produkt-icon">
@@ -40,7 +40,7 @@
                             </a>
                         </div>
                     </div>
-                    <div class="col-sm-4">
+                    <div class="col-sm-6">
                         <div class="produkt">
                             <a href="/omos">
                             <div class="produkt-icon">
