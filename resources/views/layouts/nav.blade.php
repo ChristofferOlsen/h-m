@@ -14,7 +14,7 @@
 		</div>
 		<div class="head-nav">
 			<ul>
-				{{-- <li><a href="#">BOOK ONLINE</a></li> --}}
+				{{-- <li><a href="#">BOOK ONLINE</a></li> --}} 
 				<li><a href="produkter">PRODUKTER</a></li>
 				<li><a href="omos">OM OS</a></li>
 			</ul>
